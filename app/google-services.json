@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "511889474205",
+    "firebase_url": "https://bakeryapp-566e3.firebaseio.com",
+    "project_id": "bakeryapp-566e3",
+    "storage_bucket": "bakeryapp-566e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511889474205:android:ba956c4e7e4438d0808a74",
+        "android_client_info": {
+          "package_name": "com.digipodium.bakerylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511889474205-vgg5gab3nhpopmso9ahea4v4gmr972dh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.bakerylogin",
+            "certificate_hash": "76434646816f299d2365e04353c430c852bc7593"
+          }
+        },
+        {
+          "client_id": "511889474205-9tre0k0lcac8pte82ck8605k0k9ommk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMZBBkfT00CzNie3MvFMDO7_L2yqE7F7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511889474205-9tre0k0lcac8pte82ck8605k0k9ommk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
